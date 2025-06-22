@@ -32,7 +32,7 @@ webSocket = "1.5.3"
 # Gson
 gson = "2.10.1"
 # Retrofit
-retrofit = "3.1.0-SNAPSHOT"
+retrofit = "2.9.0"
 converterGson = "2.9.0"
 
 [libraries]
